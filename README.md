@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Paulo Eduardo</h1>
+<h1 align="center">Olá 👋, Eu sou Paulada</h1>
 <h3 align="center">Desenvolvedor Full-Stack Apaixonado por Tecnologia</h3>
 
 <p align="center">
